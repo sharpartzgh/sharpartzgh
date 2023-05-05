@@ -11,11 +11,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Frederick
 =================================================================================================================================
 
-Visual Artist | Graphic Designer | Student at ALX
--------------------------------------------------
+Visual Artist | Graphic Designer 
+--------------------------------
 </div>
 
-Visual artist and Graphic Designer currently studying software engineering at ALX, demonstrating a willingness to learn new things and expand my skill set which bodes well for future success. Am deeply interested and enthusiastic about the concept of web 3.0, the next generation of the internet that is being built on decentralized and blockchain-based technologies.
+Visual artist and Graphic Designer currently studying software engineering, demonstrating a willingness to learn new things and expand my skill set which bodes well for future success. Am deeply interested and enthusiastic about the concept of web 3.0, the next generation of the internet that is being built on decentralized and blockchain-based technologies.
 
 * 🌍  I'm based in Ghana
 * 🧠  I'm learning Software Engineering
