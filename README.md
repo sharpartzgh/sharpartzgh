@@ -18,7 +18,7 @@ Visual Artist | Graphic Designer
 Visual artist and Graphic Designer currently studying Front-end Development, demonstrating a willingness to learn new things and expand my skill set which bodes well for future success. Am deeply interested and enthusiastic about the concept of web 3.0, the next generation of the internet that is being built on decentralized and blockchain-based technologies.
 
 * 🌍  I'm based in Ghana
-* 🧠  I'm learning Software Engineering
+* 🧠  I'm learning Front-end Development 
 * ⚡ https://minepi.com/sharpartz
 
 <a href="https://www.github.com/sharpartzgh" target="_blank" rel="noreferrer"><img
