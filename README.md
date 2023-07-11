@@ -5,11 +5,8 @@
 </div>
 
 <div align="center">
-  
-  ![Nirc](https://user-images.githubusercontent.com/120729769/221288648-06fd37bb-226f-48a9-b8bd-fa65b59fcd18.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Frederick
-=================================================================================================================================
+![Frederick](https://github.com/sharpartzgh/sharpartzgh/assets/120729769/81c5fbc7-f15f-47b1-b130-8664fe2adfa3)
 
 Visual Artist | Graphic Designer 
 --------------------------------
