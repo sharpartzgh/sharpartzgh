@@ -10,9 +10,9 @@
 
 </div>
 Hello! I'm thrilled to connect with you as a passionate visual artist and graphic designer on an exciting journey of growth and exploration. With a strong foundation in artistry and a keen eye for design, I'm currently immersing myself in the world of front-end development, eagerly embracing new challenges and expanding my skill set.
-
-* 🧠 Learning Front-end Development 
-* ⚡ https://minepi.com/sharpartz
+<hr>
+ 🧠 Learning Front-end Development <br>
+ ⚡ https://minepi.com/sharpartz <hr>
 
 <a href="https://www.github.com/sharpartzgh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sharpartzgh?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/sharpartzgh" target="_blank" rel="noreferrer"><img
