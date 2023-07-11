@@ -8,13 +8,10 @@
 
 ![Frederick](https://github.com/sharpartzgh/sharpartzgh/assets/120729769/81c5fbc7-f15f-47b1-b130-8664fe2adfa3)
 
-Visual Artist | Graphic Designer 
---------------------------------
 </div>
 
-Visual artist and Graphic Designer currently studying Front-end Development, demonstrating a willingness to learn new things and expand my skill set which bodes well for future success. Am deeply interested and enthusiastic about the concept of web 3.0, the next generation of the internet that is being built on decentralized and blockchain-based technologies.
+Hi I'm a Visual artist and Graphic Designer currently studying Front-end Development, demonstrating a willingness to learn new things and expand my skill set which bodes well for future success. Am deeply interested and enthusiastic about the concept of web 3.0, the next generation of the internet that is being built on decentralized and blockchain-based technologies.
 
-* 🌍  I'm based in Ghana
 * 🧠  I'm learning Front-end Development 
 * ⚡ https://minepi.com/sharpartz
 
