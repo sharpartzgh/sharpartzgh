@@ -9,10 +9,9 @@
 ![Frederick](https://github.com/sharpartzgh/sharpartzgh/assets/120729769/81c5fbc7-f15f-47b1-b130-8664fe2adfa3)
 
 </div>
+"Hello! I'm thrilled to connect with you as a passionate visual artist and graphic designer on an exciting journey of growth and exploration. With a strong foundation in artistry and a keen eye for design, I'm currently immersing myself in the world of front-end development with ![Azubi Africa](https://github.com/Azubi-Africa), eagerly embracing new challenges and expanding my skill set.
 
-Hi I'm a Visual artist and Graphic Designer currently studying Front-end Development, demonstrating a willingness to learn new things and expand my skill set which bodes well for future success. Am deeply interested and enthusiastic about the concept of web 3.0, the next generation of the internet that is being built on decentralized and blockchain-based technologies.
-
-* 🧠  I'm learning Front-end Development 
+* 🧠 Learning Front-end Development 
 * ⚡ https://minepi.com/sharpartz
 
 <a href="https://www.github.com/sharpartzgh" target="_blank" rel="noreferrer"><img
