@@ -9,7 +9,7 @@
 ![Frederick](https://github.com/sharpartzgh/sharpartzgh/assets/120729769/81c5fbc7-f15f-47b1-b130-8664fe2adfa3)
 
 </div>
-"Hello! I'm thrilled to connect with you as a passionate visual artist and graphic designer on an exciting journey of growth and exploration. With a strong foundation in artistry and a keen eye for design, I'm currently immersing myself in the world of front-end development with [Azubi](https://github.com/Azubi-Africa)., eagerly embracing new challenges and expanding my skill set.
+Hello! I'm thrilled to connect with you as a passionate visual artist and graphic designer on an exciting journey of growth and exploration. With a strong foundation in artistry and a keen eye for design, I'm currently immersing myself in the world of front-end development, eagerly embracing new challenges and expanding my skill set.
 
 * 🧠 Learning Front-end Development 
 * ⚡ https://minepi.com/sharpartz
