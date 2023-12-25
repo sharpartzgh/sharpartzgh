@@ -21,7 +21,7 @@ src="https://img.shields.io/twitter/follow/ApentengAsiamah?logo=twitter&style=fo
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=ApentengAsiamah&show_icons=true&theme=jolly&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=sharpartzgh&show_icons=true&theme=jolly&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpartzgh&langs_count=8&theme=jolly&layout=compact" />
