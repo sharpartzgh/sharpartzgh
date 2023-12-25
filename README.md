@@ -13,6 +13,11 @@ Hello! I'm thrilled to connect with you as a passionate visual artist and graphi
 <hr>
  🧠 Learning Front-end Development <br>
  ⚡ https://minepi.com/sharpartz <hr>
+ 
+# Tools & Libraries 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github)](https://skillicons.dev)
+
+<hr>
 
 <a href="https://www.github.com/sharpartzgh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sharpartzgh?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/ApenetengAsiamah" target="_blank" rel="noreferrer"><img
