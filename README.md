@@ -15,7 +15,7 @@ Hello! I'm thrilled to connect with you as a passionate visual artist and graphi
  ⚡ https://minepi.com/sharpartz <hr>
  
 # Tools & Libraries 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,ps,vscode)](https://skillicons.dev)
 
 <hr>
 
