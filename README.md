@@ -5,13 +5,13 @@
 </div>
 
 <div align="center">
-    
-![Frederick](https://github.com/sharpartzgh/sharpartzgh/assets/120729769/81c5fbc7-f15f-47b1-b130-8664fe2adfa3)
+  
+![LINKEDIN HEADER DESIGN](https://github.com/sharpartzgh/sharpartzgh/assets/120729769/858ac115-4b1c-439f-9bf6-314056eb4b90)
 
 </div>
-Hello! I'm thrilled to connect with you as a passionate visual artist and graphic designer on an exciting journey of growth and exploration. With a strong foundation in artistry and a keen eye for design, I'm currently immersing myself in the world of front-end development, eagerly embracing new challenges and expanding my skill set.
+Hello! I am a dedicated Front-End Architect with a passion for crafting immersive digital experiences. Proficient in HTML, CSS, JavaScript, and React, I specialize in driving user engagement, optimizing performance, and staying at the forefront of industry trends.
 <hr>
- 🧠 Learning Front-end Development <br>
+ 🧠 Frontend Developer <br>
  ⚡ https://minepi.com/sharpartz <hr>
  
 # Tools & Libraries 
