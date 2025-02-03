@@ -15,7 +15,7 @@ Hello! I am a dedicated Front-End Architect with a passion for crafting immersiv
  ⚡ https://minepi.com/sharpartz <hr>
  
 # Tools & Libraries 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,ps,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,git,github,ps,vscode)](https://skillicons.dev)
 
 <hr>
 
