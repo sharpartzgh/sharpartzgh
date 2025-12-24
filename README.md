@@ -35,8 +35,8 @@ Hello! I am a dedicated Front-End Architect with a passion for crafting immersiv
 <hr>
 
 <a href="https://www.github.com/sharpartzgh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sharpartzgh?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/ApenetengAsiamah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ApentengAsiamah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+src="https://img.shields.io/github/followers/sharpartzgh?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/sharpartzgh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sharpartzgh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
 <div align="center">
