@@ -40,7 +40,7 @@ src="https://img.shields.io/badge/Twitter-Follow%20@sharpartzgh-1DA1F2?style=for
 /></a>
 
 <div align="center">
-<a href="https://github.com/sharpartzgh">
+<a href="https://github.com/sharpartzgh/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=sharpartzgh&show_icons=true&theme=jolly&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
