@@ -35,13 +35,13 @@ Hello! I am a dedicated Front-End Architect with a passion for crafting immersiv
 <hr>
 
 <a href="https://www.github.com/sharpartzgh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sharpartzgh?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/sharpartzgh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sharpartzgh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+src="https://img.shields.io/github/followers/sharpartzgh?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://twitter.com/sharpartzgh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Twitter-Follow%20@sharpartzgh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
 /></a>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=sharpartzgh&show_icons=true&theme=jolly" />
+<a href="https://github.com/sharpartzgh">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=sharpartzgh&show_icons=true&theme=jolly&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpartzgh&langs_count=8&theme=jolly&layout=compact" />
